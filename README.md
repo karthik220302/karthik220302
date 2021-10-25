@@ -1,1 +1,1 @@
-![Profile views](https://gpvc.arturio.dev/[karthik220302])
+!(https://gpvc.arturio.dev/[karthik220302])
