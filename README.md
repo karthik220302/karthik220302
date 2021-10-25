@@ -1,2 +1,2 @@
-![counter
-(https://gpvc.arturio.dev/karthik220302)]
+![counter]
+(https://gpvc.arturio.dev/karthik220302)
