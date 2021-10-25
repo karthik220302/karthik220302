@@ -1,2 +1,1 @@
-![counter
-(https://gpvc.arturio.dev/[karthik220302])
+![](https://komarev.com/ghpvc/?username=your-github-username)
