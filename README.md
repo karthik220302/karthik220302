@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **karthikrajarajanuk@gmail.com**
 
-- 📄 Know about my experiences [aiapply.co/r/66959a821ebe7](aiapply.co/r/66959a821ebe7)
+- 📄 Know about my experiences [aiapply.co/r/66959a821ebe7](www.aiapply.co/r/66959a821ebe7)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
