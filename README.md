@@ -28,4 +28,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik220302&show_icons=true&locale=en" alt="karthik220302" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karthik220302&" alt="karthik220302" /></p>
-(https://komarev.com/ghpvc/?username=karthik220302)
+
