@@ -16,10 +16,8 @@
 ---
 
 ### 🚀 **About Me**
-- 🔭 I’m currently working on **High-Speed AES using FPGA**  
 - 🌱 I’m currently learning Marketing analyst and data intelligence
 - 📫 Reach me at **[karthikrajarajanuk@gmail.com](mailto:karthikrajarajanuk@gmail.com)**  
-- 📄 Check out my experiences: **[AIApply Resume](https://www.aiapply.co/r/66959a821ebe7)**  
 
 ---
 
